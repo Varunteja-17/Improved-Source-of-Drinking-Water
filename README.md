@@ -1,3 +1,17 @@
+# Problem Statement No. 38 - Improved Source of Drinking Water
+The Challenge: Access to safe and improved sources of drinking water remains a
+critical issue in India, especially in rural and underdeveloped regions. Despite ongoing
+efforts under the Sustainable Development Goals (SDGs), inequalities persist in water
+accessibility across states and socio-economic groups. This project aims to analyze
+data from the 78th Round of the Multiple Indicator Survey (MIS) to assess the
+percentage of the population with access to improved drinking water sources. It will also
+explore related indicators such as use of clean cooking fuel and migration trends. By
+identifying patterns and disparities, the study will generate actionable insights to support
+evidence-based policymaking. The ultimate goal is to help ensure equitable access to
+clean water and contribute to India's progress on SDG targets.
+- AI Kosh Dataset Link – https://aikosh.indiaai.gov.in/web/datasets/details/improved_source_of_drinking_water_multiple_indicator_survey_78th_round.html
+Technology - Use of IBM cloud lite services is mandatory.
+
 # Improved-Source-of-Drinking-Water
 This project focuses on analyzing data from the 78th Round of the Multiple Indicator Survey (MIS) to evaluate access to improved sources of drinking water across India. Using datasets provided by AI Kosh, the study aims to uncover patterns and disparities based on geography/
 
